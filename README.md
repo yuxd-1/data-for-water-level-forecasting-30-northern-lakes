@@ -1,4 +1,5 @@
 # data-for-water-level-forecasting-30-northern-lakes
+This repository deposits data relevant to the paper "Evaluating Long-Term Forecasting Performance Decay and Seasonal Effects in Deep Learning-Based Water Level Forecasting Models Across Multiple Northern Lakes" 
 ## Meteological and water level observations (folder meteo_and_WL_data)
 The water level observations, from the Finnish Environment Institute (Syke) Open data, are used as part of input (historical water level), output label, and water dynamics analysis.
 <br>
