@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for HÖYTIÄINEN
+================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=4.1934, R2=0.1848, NSE=0.1848, RE=0.0001
+Month 02: RMSE=2.8824, R2=0.7585, NSE=0.7585, RE=0.0001
+Month 03: RMSE=3.3559, R2=0.5560, NSE=0.5560, RE=-0.0001
+Month 04: RMSE=8.0800, R2=0.5154, NSE=0.5154, RE=0.0001
+Month 05: RMSE=9.3977, R2=-1.1327, NSE=-1.1327, RE=0.0006
+Month 06: RMSE=3.0311, R2=-0.0284, NSE=-0.0284, RE=0.0000
+Month 07: RMSE=2.2507, R2=0.7907, NSE=0.7907, RE=-0.0001
+Month 08: RMSE=3.4984, R2=0.3735, NSE=0.3735, RE=-0.0002
+Month 09: RMSE=2.9098, R2=0.4560, NSE=0.4560, RE=-0.0001
+Month 10: RMSE=2.5035, R2=0.3156, NSE=0.3156, RE=-0.0000
+Month 11: RMSE=3.4243, R2=0.5324, NSE=0.5324, RE=0.0000
+Month 12: RMSE=3.4848, R2=0.3463, NSE=0.3463, RE=-0.0001

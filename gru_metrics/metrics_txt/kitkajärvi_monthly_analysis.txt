@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for KITKAJÄRVI
+================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=1.2089, R2=0.9865, NSE=0.9865, RE=-0.0020
+Month 02: RMSE=1.3583, R2=0.9775, NSE=0.9775, RE=-0.0043
+Month 03: RMSE=1.0822, R2=0.9783, NSE=0.9783, RE=-0.0017
+Month 04: RMSE=2.3152, R2=0.8909, NSE=0.8909, RE=-0.0011
+Month 05: RMSE=10.2707, R2=0.7386, NSE=0.7386, RE=0.0316
+Month 06: RMSE=6.1929, R2=0.8170, NSE=0.8170, RE=0.0014
+Month 07: RMSE=4.1052, R2=0.9152, NSE=0.9152, RE=-0.0046
+Month 08: RMSE=4.8186, R2=0.9001, NSE=0.9001, RE=-0.0148
+Month 09: RMSE=3.1151, R2=0.9621, NSE=0.9621, RE=-0.0028
+Month 10: RMSE=2.9585, R2=0.9559, NSE=0.9559, RE=-0.0014
+Month 11: RMSE=2.8655, R2=0.9481, NSE=0.9481, RE=-0.0035
+Month 12: RMSE=1.3634, R2=0.9880, NSE=0.9880, RE=-0.0016

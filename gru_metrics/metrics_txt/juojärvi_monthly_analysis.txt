@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for JUOJÄRVI
+==============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=1.8435, R2=0.8750, NSE=0.8750, RE=-0.0000
+Month 02: RMSE=1.8217, R2=0.8534, NSE=0.8534, RE=0.0000
+Month 03: RMSE=2.2475, R2=0.8341, NSE=0.8341, RE=0.0000
+Month 04: RMSE=4.4525, R2=0.7295, NSE=0.7295, RE=0.0001
+Month 05: RMSE=6.1808, R2=0.4132, NSE=0.4132, RE=0.0002
+Month 06: RMSE=2.3812, R2=0.4291, NSE=0.4291, RE=-0.0000
+Month 07: RMSE=3.1607, R2=0.6455, NSE=0.6455, RE=-0.0001
+Month 08: RMSE=3.2016, R2=0.6340, NSE=0.6340, RE=-0.0001
+Month 09: RMSE=3.0371, R2=0.5434, NSE=0.5434, RE=0.0001
+Month 10: RMSE=3.2582, R2=0.3521, NSE=0.3521, RE=0.0001
+Month 11: RMSE=3.3836, R2=0.7227, NSE=0.7227, RE=-0.0000
+Month 12: RMSE=2.5964, R2=0.7921, NSE=0.7921, RE=-0.0001

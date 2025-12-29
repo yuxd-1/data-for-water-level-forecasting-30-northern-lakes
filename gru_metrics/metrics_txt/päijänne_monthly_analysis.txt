@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for PÄIJÄNNE
+==============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=4.3687, R2=0.9729, NSE=0.9729, RE=0.0001
+Month 02: RMSE=3.1456, R2=0.9896, NSE=0.9896, RE=-0.0000
+Month 03: RMSE=3.2329, R2=0.9895, NSE=0.9895, RE=0.0001
+Month 04: RMSE=6.6290, R2=0.9343, NSE=0.9343, RE=0.0003
+Month 05: RMSE=8.9343, R2=0.8229, NSE=0.8229, RE=-0.0001
+Month 06: RMSE=3.4459, R2=0.9403, NSE=0.9403, RE=-0.0002
+Month 07: RMSE=2.9274, R2=0.9169, NSE=0.9169, RE=0.0001
+Month 08: RMSE=3.2374, R2=0.9067, NSE=0.9067, RE=0.0000
+Month 09: RMSE=3.2632, R2=0.8794, NSE=0.8794, RE=0.0001
+Month 10: RMSE=3.8994, R2=0.8380, NSE=0.8380, RE=0.0003
+Month 11: RMSE=4.8645, R2=0.8518, NSE=0.8518, RE=0.0003
+Month 12: RMSE=3.8143, R2=0.9660, NSE=0.9660, RE=0.0000

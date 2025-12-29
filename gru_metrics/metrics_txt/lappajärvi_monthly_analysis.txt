@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for LAPPAJÄRVI
+================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=3.9960, R2=0.9836, NSE=0.9836, RE=-0.0001
+Month 02: RMSE=3.5800, R2=0.9886, NSE=0.9886, RE=-0.0001
+Month 03: RMSE=3.3172, R2=0.9906, NSE=0.9906, RE=0.0001
+Month 04: RMSE=11.2593, R2=0.8749, NSE=0.8749, RE=-0.0005
+Month 05: RMSE=10.8682, R2=0.1971, NSE=0.1971, RE=-0.0002
+Month 06: RMSE=4.4571, R2=0.8708, NSE=0.8708, RE=-0.0002
+Month 07: RMSE=3.7409, R2=0.9145, NSE=0.9145, RE=-0.0002
+Month 08: RMSE=4.6290, R2=0.9143, NSE=0.9143, RE=-0.0002
+Month 09: RMSE=2.8814, R2=0.9610, NSE=0.9610, RE=-0.0000
+Month 10: RMSE=5.2046, R2=0.8694, NSE=0.8694, RE=0.0000
+Month 11: RMSE=7.6023, R2=0.8490, NSE=0.8490, RE=-0.0002
+Month 12: RMSE=4.6425, R2=0.9665, NSE=0.9665, RE=-0.0000

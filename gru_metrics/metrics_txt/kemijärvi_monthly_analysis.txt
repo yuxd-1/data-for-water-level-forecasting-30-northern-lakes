@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for KEMIJÄRVI
+===============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=13.3839, R2=0.9380, NSE=0.9380, RE=0.0004
+Month 02: RMSE=12.8591, R2=0.8883, NSE=0.8883, RE=0.0003
+Month 03: RMSE=9.5077, R2=-0.6868, NSE=-0.6868, RE=-0.0001
+Month 04: RMSE=19.4735, R2=-1.0003, NSE=-1.0003, RE=0.0005
+Month 05: RMSE=43.6097, R2=0.8424, NSE=0.8424, RE=0.0005
+Month 06: RMSE=18.6517, R2=0.4826, NSE=0.4826, RE=-0.0001
+Month 07: RMSE=11.8086, R2=0.1214, NSE=0.1214, RE=-0.0002
+Month 08: RMSE=11.5949, R2=0.2833, NSE=0.2833, RE=-0.0003
+Month 09: RMSE=11.4644, R2=0.6361, NSE=0.6361, RE=0.0000
+Month 10: RMSE=14.9927, R2=0.5724, NSE=0.5724, RE=0.0000
+Month 11: RMSE=13.7198, R2=0.6631, NSE=0.6631, RE=-0.0001
+Month 12: RMSE=10.1365, R2=0.9435, NSE=0.9435, RE=0.0002

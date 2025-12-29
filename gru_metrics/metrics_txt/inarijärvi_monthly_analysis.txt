@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for INARIJÄRVI
+================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=1.5969, R2=0.9814, NSE=0.9814, RE=0.0009
+Month 02: RMSE=2.0147, R2=0.9715, NSE=0.9715, RE=0.0053
+Month 03: RMSE=2.8847, R2=0.9486, NSE=0.9486, RE=0.0136
+Month 04: RMSE=5.4280, R2=0.6993, NSE=0.6993, RE=0.0169
+Month 05: RMSE=17.3013, R2=0.8445, NSE=0.8445, RE=0.0418
+Month 06: RMSE=11.5678, R2=0.7797, NSE=0.7797, RE=-0.0060
+Month 07: RMSE=4.9948, R2=0.7395, NSE=0.7395, RE=-0.0063
+Month 08: RMSE=4.4542, R2=0.8547, NSE=0.8547, RE=-0.0050
+Month 09: RMSE=3.3052, R2=0.9468, NSE=0.9468, RE=0.0015
+Month 10: RMSE=3.4818, R2=0.9308, NSE=0.9308, RE=0.0052
+Month 11: RMSE=2.3085, R2=0.9614, NSE=0.9614, RE=0.0020
+Month 12: RMSE=2.1481, R2=0.9651, NSE=0.9651, RE=-0.0042

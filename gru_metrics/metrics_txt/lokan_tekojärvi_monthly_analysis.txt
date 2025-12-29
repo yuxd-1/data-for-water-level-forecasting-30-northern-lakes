@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for LOKAN_TEKOJÄRVI
+=====================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=3.2560, R2=0.9967, NSE=0.9967, RE=0.0000
+Month 02: RMSE=3.6681, R2=0.9947, NSE=0.9947, RE=0.0001
+Month 03: RMSE=4.8166, R2=0.9889, NSE=0.9889, RE=0.0001
+Month 04: RMSE=14.4526, R2=0.8887, NSE=0.8887, RE=0.0003
+Month 05: RMSE=36.6425, R2=0.7670, NSE=0.7670, RE=0.0010
+Month 06: RMSE=33.9651, R2=0.4428, NSE=0.4428, RE=0.0005
+Month 07: RMSE=8.1786, R2=0.9590, NSE=0.9590, RE=-0.0001
+Month 08: RMSE=8.5989, R2=0.9740, NSE=0.9740, RE=-0.0001
+Month 09: RMSE=6.0118, R2=0.9883, NSE=0.9883, RE=0.0000
+Month 10: RMSE=7.0344, R2=0.9829, NSE=0.9829, RE=0.0000
+Month 11: RMSE=5.5419, R2=0.9899, NSE=0.9899, RE=0.0000
+Month 12: RMSE=4.6173, R2=0.9936, NSE=0.9936, RE=0.0000
