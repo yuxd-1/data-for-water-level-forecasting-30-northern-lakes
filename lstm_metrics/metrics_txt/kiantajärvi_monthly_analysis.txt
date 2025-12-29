@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for KIANTAJÄRVI
+=================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=8.1500, R2=0.9596, NSE=0.9596, RE=-0.0001
+Month 02: RMSE=8.5899, R2=0.9518, NSE=0.9518, RE=0.0001
+Month 03: RMSE=8.6643, R2=0.9499, NSE=0.9499, RE=0.0002
+Month 04: RMSE=22.8108, R2=0.3458, NSE=0.3458, RE=0.0004
+Month 05: RMSE=29.6466, R2=0.8986, NSE=0.8986, RE=0.0003
+Month 06: RMSE=20.2894, R2=0.1478, NSE=0.1478, RE=0.0002
+Month 07: RMSE=8.5753, R2=0.7620, NSE=0.7620, RE=-0.0002
+Month 08: RMSE=7.9775, R2=0.8061, NSE=0.8061, RE=-0.0001
+Month 09: RMSE=10.3678, R2=0.8800, NSE=0.8800, RE=-0.0000
+Month 10: RMSE=7.2073, R2=0.9450, NSE=0.9450, RE=-0.0001
+Month 11: RMSE=8.8866, R2=0.8916, NSE=0.8916, RE=-0.0001
+Month 12: RMSE=8.7664, R2=0.9316, NSE=0.9316, RE=-0.0002

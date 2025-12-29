@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for OULUJÄRVI
+===============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=4.4354, R2=0.9808, NSE=0.9808, RE=-0.0001
+Month 02: RMSE=5.1475, R2=0.9689, NSE=0.9689, RE=-0.0000
+Month 03: RMSE=6.2335, R2=0.9557, NSE=0.9557, RE=0.0000
+Month 04: RMSE=10.1268, R2=0.8256, NSE=0.8256, RE=0.0003
+Month 05: RMSE=14.0802, R2=0.7710, NSE=0.7710, RE=0.0006
+Month 06: RMSE=12.1024, R2=0.2269, NSE=0.2269, RE=0.0002
+Month 07: RMSE=5.3345, R2=0.7847, NSE=0.7847, RE=-0.0001
+Month 08: RMSE=4.8166, R2=0.8576, NSE=0.8576, RE=-0.0001
+Month 09: RMSE=6.5775, R2=0.8178, NSE=0.8178, RE=0.0000
+Month 10: RMSE=6.6762, R2=0.9079, NSE=0.9079, RE=0.0002
+Month 11: RMSE=6.8415, R2=0.9238, NSE=0.9238, RE=-0.0001
+Month 12: RMSE=6.0929, R2=0.9465, NSE=0.9465, RE=-0.0001

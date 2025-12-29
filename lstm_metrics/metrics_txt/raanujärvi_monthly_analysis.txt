@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for RAANUJÄRVI
+================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=10.3973, R2=0.8140, NSE=0.8140, RE=-0.0000
+Month 02: RMSE=8.7290, R2=0.6325, NSE=0.6325, RE=-0.0002
+Month 03: RMSE=10.1792, R2=0.2845, NSE=0.2845, RE=0.0002
+Month 04: RMSE=16.6282, R2=-0.0522, NSE=-0.0522, RE=0.0003
+Month 05: RMSE=29.4483, R2=0.6961, NSE=0.6961, RE=0.0011
+Month 06: RMSE=11.1111, R2=-2.0486, NSE=-2.0486, RE=0.0000
+Month 07: RMSE=6.2562, R2=-0.0779, NSE=-0.0779, RE=-0.0002
+Month 08: RMSE=6.3347, R2=0.2950, NSE=0.2950, RE=-0.0003
+Month 09: RMSE=6.3558, R2=0.2525, NSE=0.2525, RE=-0.0001
+Month 10: RMSE=6.2355, R2=0.1187, NSE=0.1187, RE=0.0001
+Month 11: RMSE=7.4474, R2=0.4849, NSE=0.4849, RE=0.0001
+Month 12: RMSE=8.2278, R2=0.7859, NSE=0.7859, RE=0.0003

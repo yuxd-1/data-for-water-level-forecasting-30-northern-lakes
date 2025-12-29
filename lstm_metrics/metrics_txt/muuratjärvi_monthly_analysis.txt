@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for MUURATJÄRVI
+=================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=3.6148, R2=0.9720, NSE=0.9720, RE=0.0000
+Month 02: RMSE=2.6713, R2=0.9819, NSE=0.9819, RE=-0.0001
+Month 03: RMSE=2.5393, R2=0.9788, NSE=0.9788, RE=-0.0000
+Month 04: RMSE=8.6243, R2=0.8192, NSE=0.8192, RE=-0.0006
+Month 05: RMSE=7.0417, R2=0.8836, NSE=0.8836, RE=-0.0003
+Month 06: RMSE=3.0337, R2=0.9731, NSE=0.9731, RE=0.0001
+Month 07: RMSE=3.8392, R2=0.9069, NSE=0.9069, RE=0.0000
+Month 08: RMSE=2.9908, R2=0.9492, NSE=0.9492, RE=0.0000
+Month 09: RMSE=2.3818, R2=0.9633, NSE=0.9633, RE=0.0001
+Month 10: RMSE=2.6039, R2=0.9682, NSE=0.9682, RE=-0.0000
+Month 11: RMSE=3.0329, R2=0.9739, NSE=0.9739, RE=-0.0000
+Month 12: RMSE=4.5524, R2=0.9556, NSE=0.9556, RE=-0.0000

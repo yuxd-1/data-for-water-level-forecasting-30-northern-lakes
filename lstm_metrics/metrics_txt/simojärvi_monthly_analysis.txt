@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for SIMOJÄRVI
+===============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=1.7060, R2=0.9141, NSE=0.9141, RE=-0.0036
+Month 02: RMSE=1.3600, R2=0.8989, NSE=0.8989, RE=-0.0071
+Month 03: RMSE=1.8017, R2=0.8098, NSE=0.8098, RE=-0.0020
+Month 04: RMSE=3.1517, R2=0.8186, NSE=0.8186, RE=-0.0138
+Month 05: RMSE=7.2342, R2=0.7895, NSE=0.7895, RE=-0.0099
+Month 06: RMSE=4.4067, R2=0.8533, NSE=0.8533, RE=-0.0096
+Month 07: RMSE=4.2968, R2=0.8513, NSE=0.8513, RE=-0.0172
+Month 08: RMSE=3.7961, R2=0.8284, NSE=0.8284, RE=0.0004
+Month 09: RMSE=3.0193, R2=0.6831, NSE=0.6831, RE=-0.0069
+Month 10: RMSE=3.3782, R2=0.8820, NSE=0.8820, RE=-0.0124
+Month 11: RMSE=2.6939, R2=0.8926, NSE=0.8926, RE=-0.0059
+Month 12: RMSE=2.4288, R2=0.9173, NSE=0.9173, RE=-0.0041

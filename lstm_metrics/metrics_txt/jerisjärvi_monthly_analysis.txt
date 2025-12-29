@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for JERISJÄRVI
+================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=1.0742, R2=0.9595, NSE=0.9595, RE=0.0000
+Month 02: RMSE=0.8873, R2=0.9476, NSE=0.9476, RE=0.0000
+Month 03: RMSE=0.9907, R2=0.8668, NSE=0.8668, RE=0.0000
+Month 04: RMSE=1.3551, R2=0.6457, NSE=0.6457, RE=-0.0000
+Month 05: RMSE=3.3885, R2=0.8992, NSE=0.8992, RE=0.0000
+Month 06: RMSE=2.9517, R2=0.8332, NSE=0.8332, RE=0.0000
+Month 07: RMSE=1.8733, R2=0.9120, NSE=0.9120, RE=0.0000
+Month 08: RMSE=1.5539, R2=0.9145, NSE=0.9145, RE=0.0000
+Month 09: RMSE=1.9078, R2=0.7806, NSE=0.7806, RE=0.0000
+Month 10: RMSE=2.2828, R2=0.9295, NSE=0.9295, RE=-0.0000
+Month 11: RMSE=1.3440, R2=0.9757, NSE=0.9757, RE=0.0000
+Month 12: RMSE=1.3063, R2=0.9635, NSE=0.9635, RE=0.0000
