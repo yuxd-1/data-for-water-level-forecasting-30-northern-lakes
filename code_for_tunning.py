@@ -84,7 +84,7 @@ OPTIMIZERS = ["adam", "adamw", "rmsprop"]
 MAX_EPOCHS_TUNE = 20
 PATIENCE_TUNE = 4
 
-N_RANDOM_TRIALS = 1
+N_RANDOM_TRIALS = 200
 
 
 def split_indices(n: int) -> Tuple[int, int]:
@@ -561,3 +561,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
