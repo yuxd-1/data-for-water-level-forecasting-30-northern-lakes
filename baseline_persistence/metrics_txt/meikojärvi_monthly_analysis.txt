@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for MEIKOJÄRVI
+================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=4.0295, R2=0.7538, NSE=0.7538, RE=0.0001
+Month 02: RMSE=3.0344, R2=0.8381, NSE=0.8381, RE=0.0000
+Month 03: RMSE=3.7394, R2=0.7575, NSE=0.7575, RE=0.0000
+Month 04: RMSE=8.2501, R2=0.4419, NSE=0.4419, RE=0.0000
+Month 05: RMSE=30.2269, R2=0.2531, NSE=0.2531, RE=-0.0023
+Month 06: RMSE=20.2057, R2=0.4817, NSE=0.4817, RE=0.0016
+Month 07: RMSE=12.2031, R2=0.7523, NSE=0.7523, RE=0.0008
+Month 08: RMSE=9.0924, R2=0.8207, NSE=0.8207, RE=0.0006
+Month 09: RMSE=7.5307, R2=0.9072, NSE=0.9072, RE=-0.0000
+Month 10: RMSE=15.8135, R2=0.7456, NSE=0.7456, RE=-0.0007
+Month 11: RMSE=11.8767, R2=0.8582, NSE=0.8582, RE=-0.0003
+Month 12: RMSE=7.2967, R2=0.7413, NSE=0.7413, RE=0.0003
