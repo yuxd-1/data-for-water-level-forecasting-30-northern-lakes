@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for LENTUA
+============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=4.0519, R2=0.8768, NSE=0.8768, RE=0.0002
+Month 02: RMSE=2.9042, R2=0.8836, NSE=0.8836, RE=0.0001
+Month 03: RMSE=2.1966, R2=0.9259, NSE=0.9259, RE=0.0001
+Month 04: RMSE=9.8696, R2=0.5212, NSE=0.5212, RE=-0.0003
+Month 05: RMSE=23.2051, R2=0.0394, NSE=0.0394, RE=-0.0009
+Month 06: RMSE=13.4441, R2=0.3956, NSE=0.3956, RE=0.0006
+Month 07: RMSE=7.7141, R2=0.5606, NSE=0.5606, RE=0.0003
+Month 08: RMSE=4.6849, R2=0.9156, NSE=0.9156, RE=0.0001
+Month 09: RMSE=5.7366, R2=0.9259, NSE=0.9259, RE=0.0000
+Month 10: RMSE=4.1495, R2=0.9589, NSE=0.9589, RE=-0.0001
+Month 11: RMSE=6.4962, R2=0.8572, NSE=0.8572, RE=-0.0002
+Month 12: RMSE=3.9471, R2=0.9148, NSE=0.9148, RE=0.0001
