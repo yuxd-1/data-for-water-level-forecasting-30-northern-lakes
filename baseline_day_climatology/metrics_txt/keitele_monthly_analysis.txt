@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for KEITELE
+=============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=25.3872, R2=-0.0977, NSE=-0.0977, RE=-0.0008
+Month 02: RMSE=27.1219, R2=-0.1985, NSE=-0.1985, RE=-0.0011
+Month 03: RMSE=26.6114, R2=-0.2383, NSE=-0.2383, RE=-0.0012
+Month 04: RMSE=26.4866, R2=-0.2971, NSE=-0.2971, RE=-0.0014
+Month 05: RMSE=22.7522, R2=-0.2513, NSE=-0.2513, RE=-0.0010
+Month 06: RMSE=14.5128, R2=-0.0213, NSE=-0.0213, RE=0.0002
+Month 07: RMSE=15.8805, R2=-0.1839, NSE=-0.1839, RE=0.0008
+Month 08: RMSE=18.6393, R2=-0.2300, NSE=-0.2300, RE=0.0009
+Month 09: RMSE=19.2047, R2=-0.4197, NSE=-0.4197, RE=0.0011
+Month 10: RMSE=20.7612, R2=-0.6449, NSE=-0.6449, RE=0.0013
+Month 11: RMSE=20.5744, R2=-0.3167, NSE=-0.3167, RE=0.0010
+Month 12: RMSE=21.0440, R2=0.0010, NSE=0.0010, RE=0.0001

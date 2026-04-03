@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for KIVIJÄRVI
+===============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=23.3406, R2=-0.2590, NSE=-0.2590, RE=-0.0008
+Month 02: RMSE=32.1345, R2=-0.4807, NSE=-0.4807, RE=-0.0014
+Month 03: RMSE=36.9483, R2=-0.2427, NSE=-0.2427, RE=-0.0013
+Month 04: RMSE=26.7515, R2=-0.0518, NSE=-0.0518, RE=-0.0007
+Month 05: RMSE=12.4566, R2=0.2719, NSE=0.2719, RE=-0.0005
+Month 06: RMSE=15.0124, R2=-0.0109, NSE=-0.0109, RE=-0.0004
+Month 07: RMSE=11.7196, R2=-0.6098, NSE=-0.6098, RE=0.0006
+Month 08: RMSE=14.6346, R2=-6.0063, NSE=-6.0063, RE=0.0010
+Month 09: RMSE=12.5266, R2=-9.8887, NSE=-9.8887, RE=0.0009
+Month 10: RMSE=10.1896, R2=-0.1713, NSE=-0.1713, RE=0.0004
+Month 11: RMSE=15.2561, R2=-0.0667, NSE=-0.0667, RE=-0.0005
+Month 12: RMSE=20.1941, R2=-0.1239, NSE=-0.1239, RE=-0.0005

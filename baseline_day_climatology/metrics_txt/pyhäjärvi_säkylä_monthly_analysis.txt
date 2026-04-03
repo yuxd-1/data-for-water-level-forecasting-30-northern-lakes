@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for PYHÄJÄRVI_SÄKYLÄ
+======================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=15.8373, R2=-0.2319, NSE=-0.2319, RE=0.0788
+Month 02: RMSE=15.8892, R2=-0.0481, NSE=-0.0481, RE=0.0340
+Month 03: RMSE=14.9080, R2=-0.0411, NSE=-0.0411, RE=-0.0286
+Month 04: RMSE=9.9243, R2=-0.0920, NSE=-0.0920, RE=-0.0252
+Month 05: RMSE=7.5972, R2=-0.0066, NSE=-0.0066, RE=0.0162
+Month 06: RMSE=7.0821, R2=-0.0499, NSE=-0.0499, RE=0.0287
+Month 07: RMSE=7.8060, R2=-0.2819, NSE=-0.2819, RE=0.0502
+Month 08: RMSE=8.5770, R2=-1.1040, NSE=-1.1040, RE=0.0848
+Month 09: RMSE=8.7821, R2=-2.6679, NSE=-2.6679, RE=0.1075
+Month 10: RMSE=11.1798, R2=-3.2698, NSE=-3.2698, RE=0.1422
+Month 11: RMSE=14.8397, R2=-2.7523, NSE=-2.7523, RE=0.1775
+Month 12: RMSE=15.3411, R2=-0.4690, NSE=-0.4690, RE=0.1120

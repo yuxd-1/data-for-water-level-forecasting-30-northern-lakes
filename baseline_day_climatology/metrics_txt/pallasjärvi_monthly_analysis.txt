@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for PALLASJÄRVI
+=================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=3.2055, R2=-1.2086, NSE=-1.2086, RE=0.0227
+Month 02: RMSE=2.9062, R2=-2.1269, NSE=-2.1269, RE=0.0223
+Month 03: RMSE=3.3893, R2=-2.2873, NSE=-2.2873, RE=0.0283
+Month 04: RMSE=3.9065, R2=-2.8323, NSE=-2.8323, RE=0.0316
+Month 05: RMSE=13.4985, R2=0.3159, NSE=0.3159, RE=0.0784
+Month 06: RMSE=6.3413, R2=0.5084, NSE=0.5084, RE=0.0060
+Month 07: RMSE=8.1492, R2=0.0237, NSE=0.0237, RE=0.0203
+Month 08: RMSE=7.4708, R2=-0.3439, NSE=-0.3439, RE=0.0313
+Month 09: RMSE=5.4577, R2=-0.7127, NSE=-0.7127, RE=0.0298
+Month 10: RMSE=5.6207, R2=-0.3698, NSE=-0.3698, RE=0.0243
+Month 11: RMSE=4.5570, R2=-0.0653, NSE=-0.0653, RE=0.0091
+Month 12: RMSE=3.6672, R2=-0.1677, NSE=-0.1677, RE=0.0148
