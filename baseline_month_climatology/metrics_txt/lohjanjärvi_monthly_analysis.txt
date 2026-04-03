@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for LOHJANJÄRVI
+=================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=20.1687, R2=-0.0008, NSE=-0.0008, RE=-0.0002
+Month 02: RMSE=15.9340, R2=-0.0616, NSE=-0.0616, RE=-0.0012
+Month 03: RMSE=24.5265, R2=-0.3985, NSE=-0.3985, RE=-0.0041
+Month 04: RMSE=21.4787, R2=-0.9055, NSE=-0.9055, RE=-0.0047
+Month 05: RMSE=7.0282, R2=-1.2519, NSE=-1.2519, RE=-0.0016
+Month 06: RMSE=6.7631, R2=-0.0891, NSE=-0.0891, RE=-0.0006
+Month 07: RMSE=5.7431, R2=-0.0453, NSE=-0.0453, RE=-0.0004
+Month 08: RMSE=6.5537, R2=-0.0335, NSE=-0.0335, RE=-0.0004
+Month 09: RMSE=6.8345, R2=-0.0310, NSE=-0.0310, RE=-0.0004
+Month 10: RMSE=9.8536, R2=-0.0000, NSE=-0.0000, RE=0.0000
+Month 11: RMSE=16.2599, R2=-0.0948, NSE=-0.0948, RE=0.0015
+Month 12: RMSE=22.6777, R2=-0.0024, NSE=-0.0024, RE=-0.0003

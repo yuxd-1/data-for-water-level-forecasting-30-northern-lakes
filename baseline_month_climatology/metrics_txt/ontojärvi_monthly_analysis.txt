@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for ONTOJÄRVI
+===============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=43.8391, R2=-0.0223, NSE=-0.0223, RE=-0.0004
+Month 02: RMSE=50.2311, R2=-0.2510, NSE=-0.2510, RE=0.0014
+Month 03: RMSE=67.5890, R2=-0.7253, NSE=-0.7253, RE=0.0028
+Month 04: RMSE=41.9221, R2=-0.0743, NSE=-0.0743, RE=-0.0007
+Month 05: RMSE=85.0293, R2=-0.0217, NSE=-0.0217, RE=-0.0008
+Month 06: RMSE=26.2046, R2=-1.2504, NSE=-1.2504, RE=0.0012
+Month 07: RMSE=23.5603, R2=-5.9752, NSE=-5.9752, RE=0.0014
+Month 08: RMSE=15.2583, R2=-0.1412, NSE=-0.1412, RE=0.0003
+Month 09: RMSE=16.0692, R2=-0.0033, NSE=-0.0033, RE=0.0001
+Month 10: RMSE=19.4891, R2=-0.0479, NSE=-0.0479, RE=0.0003
+Month 11: RMSE=11.7945, R2=-0.0634, NSE=-0.0634, RE=-0.0002
+Month 12: RMSE=22.5531, R2=-0.0060, NSE=-0.0060, RE=-0.0001

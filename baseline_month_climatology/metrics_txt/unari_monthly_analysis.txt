@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for UNARI
+===========================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=16.0724, R2=-12.4850, NSE=-12.4850, RE=-0.0009
+Month 02: RMSE=14.9679, R2=-16.0990, NSE=-16.0990, RE=-0.0008
+Month 03: RMSE=14.8158, R2=-20.0292, NSE=-20.0292, RE=-0.0008
+Month 04: RMSE=17.0342, R2=-3.4404, NSE=-3.4404, RE=-0.0008
+Month 05: RMSE=52.6203, R2=-0.0371, NSE=-0.0371, RE=-0.0006
+Month 06: RMSE=31.9217, R2=-0.1109, NSE=-0.1109, RE=-0.0006
+Month 07: RMSE=24.9588, R2=-0.7844, NSE=-0.7844, RE=-0.0009
+Month 08: RMSE=18.6175, R2=-0.7617, NSE=-0.7617, RE=-0.0007
+Month 09: RMSE=19.1224, R2=-0.4238, NSE=-0.4238, RE=-0.0006
+Month 10: RMSE=21.6924, R2=-0.8299, NSE=-0.8299, RE=-0.0008
+Month 11: RMSE=23.6755, R2=-1.2235, NSE=-1.2235, RE=-0.0010
+Month 12: RMSE=17.1590, R2=-5.0721, NSE=-5.0721, RE=-0.0009

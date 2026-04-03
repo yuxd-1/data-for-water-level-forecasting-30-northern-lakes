@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for PIELINEN
+==============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=33.6511, R2=-0.2115, NSE=-0.2115, RE=-0.0015
+Month 02: RMSE=31.3406, R2=-0.3594, NSE=-0.3594, RE=-0.0017
+Month 03: RMSE=30.6376, R2=-0.4954, NSE=-0.4954, RE=-0.0019
+Month 04: RMSE=35.0892, R2=-1.3584, NSE=-1.3584, RE=-0.0028
+Month 05: RMSE=30.4322, R2=-0.5623, NSE=-0.5623, RE=-0.0019
+Month 06: RMSE=14.0635, R2=-0.0180, NSE=-0.0180, RE=-0.0002
+Month 07: RMSE=16.6348, R2=-0.3524, NSE=-0.3524, RE=0.0009
+Month 08: RMSE=21.9748, R2=-0.2506, NSE=-0.2506, RE=0.0011
+Month 09: RMSE=29.4661, R2=-0.2223, NSE=-0.2223, RE=0.0013
+Month 10: RMSE=34.1650, R2=-0.2106, NSE=-0.2106, RE=0.0015
+Month 11: RMSE=31.0986, R2=-0.0328, NSE=-0.0328, RE=0.0006
+Month 12: RMSE=29.8411, R2=-0.0242, NSE=-0.0242, RE=-0.0005

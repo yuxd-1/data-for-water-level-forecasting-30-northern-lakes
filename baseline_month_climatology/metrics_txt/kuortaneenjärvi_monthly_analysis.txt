@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for KUORTANEENJÄRVI
+=====================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=19.4027, R2=-0.0024, NSE=-0.0024, RE=0.0001
+Month 02: RMSE=19.6290, R2=-0.0735, NSE=-0.0735, RE=0.0007
+Month 03: RMSE=24.7038, R2=-0.0409, NSE=-0.0409, RE=0.0006
+Month 04: RMSE=51.5711, R2=-0.0822, NSE=-0.0822, RE=-0.0019
+Month 05: RMSE=33.2657, R2=-0.2965, NSE=-0.2965, RE=0.0021
+Month 06: RMSE=13.4826, R2=-0.3180, NSE=-0.3180, RE=0.0009
+Month 07: RMSE=11.9412, R2=-0.1375, NSE=-0.1375, RE=0.0005
+Month 08: RMSE=17.6051, R2=-0.3203, NSE=-0.3203, RE=0.0011
+Month 09: RMSE=21.0416, R2=-0.4910, NSE=-0.4910, RE=0.0016
+Month 10: RMSE=27.6542, R2=-0.1621, NSE=-0.1621, RE=0.0014
+Month 11: RMSE=28.1759, R2=-0.0199, NSE=-0.0199, RE=0.0005
+Month 12: RMSE=25.9657, R2=-0.0048, NSE=-0.0048, RE=0.0002

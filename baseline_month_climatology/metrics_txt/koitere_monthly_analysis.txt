@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for KOITERE
+=============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=24.0102, R2=-0.0932, NSE=-0.0932, RE=-0.0005
+Month 02: RMSE=36.2754, R2=-0.5510, NSE=-0.5510, RE=-0.0015
+Month 03: RMSE=45.7178, R2=-1.2632, NSE=-1.2632, RE=-0.0024
+Month 04: RMSE=36.8154, R2=-1.5816, NSE=-1.5816, RE=-0.0020
+Month 05: RMSE=34.6944, R2=-0.0685, NSE=-0.0685, RE=-0.0006
+Month 06: RMSE=18.7221, R2=-5.1085, NSE=-5.1085, RE=0.0012
+Month 07: RMSE=15.8925, R2=-4.4644, NSE=-4.4644, RE=0.0010
+Month 08: RMSE=10.4253, R2=-2.0675, NSE=-2.0675, RE=0.0006
+Month 09: RMSE=20.1027, R2=-1.1560, NSE=-1.1560, RE=0.0010
+Month 10: RMSE=28.3723, R2=-0.8803, NSE=-0.8803, RE=0.0014
+Month 11: RMSE=22.9293, R2=-0.7025, NSE=-0.7025, RE=0.0010
+Month 12: RMSE=26.0421, R2=-0.2358, NSE=-0.2358, RE=0.0008

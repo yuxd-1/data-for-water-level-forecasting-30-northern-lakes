@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for VESIJÄRVI
+===============================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=13.9164, R2=-0.0868, NSE=-0.0868, RE=-0.0005
+Month 02: RMSE=11.6194, R2=-0.1873, NSE=-0.1873, RE=-0.0006
+Month 03: RMSE=9.9806, R2=-1.1973, NSE=-1.1973, RE=-0.0009
+Month 04: RMSE=11.8576, R2=-1.8150, NSE=-1.8150, RE=-0.0012
+Month 05: RMSE=11.2217, R2=-0.6548, NSE=-0.6548, RE=-0.0009
+Month 06: RMSE=8.9344, R2=-0.0701, NSE=-0.0701, RE=-0.0003
+Month 07: RMSE=5.2576, R2=-0.0340, NSE=-0.0340, RE=-0.0001
+Month 08: RMSE=6.5135, R2=-0.1016, NSE=-0.1016, RE=0.0002
+Month 09: RMSE=6.6133, R2=-0.0502, NSE=-0.0502, RE=0.0002
+Month 10: RMSE=9.5918, R2=-0.1191, NSE=-0.1191, RE=0.0004
+Month 11: RMSE=12.6079, R2=-0.0616, NSE=-0.0616, RE=0.0004
+Month 12: RMSE=13.7087, R2=-0.0036, NSE=-0.0036, RE=-0.0001

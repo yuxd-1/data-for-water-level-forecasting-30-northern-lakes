@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for LESTIJÄRVI
+================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=19.3945, R2=-0.5799, NSE=-0.5799, RE=-0.0008
+Month 02: RMSE=19.3814, R2=-0.8283, NSE=-0.8283, RE=-0.0009
+Month 03: RMSE=18.9283, R2=-1.0004, NSE=-1.0004, RE=-0.0009
+Month 04: RMSE=22.6021, R2=-1.1360, NSE=-1.1360, RE=-0.0012
+Month 05: RMSE=12.9774, R2=-0.7283, NSE=-0.7283, RE=-0.0006
+Month 06: RMSE=11.8367, R2=-0.0357, NSE=-0.0357, RE=-0.0002
+Month 07: RMSE=14.6300, R2=-0.0326, NSE=-0.0326, RE=-0.0002
+Month 08: RMSE=17.7695, R2=-0.0125, NSE=-0.0125, RE=-0.0001
+Month 09: RMSE=17.0386, R2=-0.0011, NSE=-0.0011, RE=0.0000
+Month 10: RMSE=15.0667, R2=-0.0140, NSE=-0.0140, RE=0.0001
+Month 11: RMSE=12.7105, R2=-0.1360, NSE=-0.1360, RE=-0.0003
+Month 12: RMSE=16.6665, R2=-0.3636, NSE=-0.3636, RE=-0.0006

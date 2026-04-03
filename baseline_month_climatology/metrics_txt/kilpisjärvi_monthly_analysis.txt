@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for KILPISJÄRVI
+=================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=2.9426, R2=-0.0144, NSE=-0.0144, RE=-0.0000
+Month 02: RMSE=2.5107, R2=-0.0441, NSE=-0.0441, RE=-0.0000
+Month 03: RMSE=2.6088, R2=-0.1824, NSE=-0.1824, RE=-0.0000
+Month 04: RMSE=3.1413, R2=-0.4471, NSE=-0.4471, RE=-0.0000
+Month 05: RMSE=17.5520, R2=-0.0178, NSE=-0.0178, RE=-0.0000
+Month 06: RMSE=14.1345, R2=-0.0360, NSE=-0.0360, RE=-0.0001
+Month 07: RMSE=7.9663, R2=-0.0000, NSE=-0.0000, RE=0.0000
+Month 08: RMSE=7.7836, R2=-0.0027, NSE=-0.0027, RE=-0.0000
+Month 09: RMSE=5.5507, R2=-0.0373, NSE=-0.0373, RE=-0.0000
+Month 10: RMSE=5.8957, R2=-0.0588, NSE=-0.0588, RE=-0.0000
+Month 11: RMSE=5.6672, R2=-0.0028, NSE=-0.0028, RE=0.0000
+Month 12: RMSE=4.1318, R2=-0.0091, NSE=-0.0091, RE=0.0000

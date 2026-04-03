@@ -1,0 +1,19 @@
+Monthly Analysis (Calendar-Based) for ÄHTÄRINJÄRVI
+==================================================
+
+Metrics computed across all forecast days that fall into each calendar month.
+
+Month -> (RMSE, R2, NSE, RE)
+
+Month 01: RMSE=26.6167, R2=-0.7331, NSE=-0.7331, RE=-0.0011
+Month 02: RMSE=33.7355, R2=-1.3136, NSE=-1.3136, RE=-0.0017
+Month 03: RMSE=35.0770, R2=-1.7421, NSE=-1.7421, RE=-0.0018
+Month 04: RMSE=52.8954, R2=-1.1801, NSE=-1.1801, RE=-0.0025
+Month 05: RMSE=13.4144, R2=-0.5516, NSE=-0.5516, RE=-0.0005
+Month 06: RMSE=8.2661, R2=-0.6307, NSE=-0.6307, RE=0.0003
+Month 07: RMSE=5.0591, R2=-0.0120, NSE=-0.0120, RE=0.0000
+Month 08: RMSE=7.1878, R2=-0.0150, NSE=-0.0150, RE=0.0001
+Month 09: RMSE=9.1677, R2=-0.1141, NSE=-0.1141, RE=0.0002
+Month 10: RMSE=13.2786, R2=-0.3201, NSE=-0.3201, RE=0.0004
+Month 11: RMSE=15.7460, R2=-0.0102, NSE=-0.0102, RE=0.0001
+Month 12: RMSE=17.5626, R2=-0.2453, NSE=-0.2453, RE=-0.0005
